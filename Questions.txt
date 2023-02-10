@@ -1,0 +1,10 @@
+Question: What is the capital of Russia? 
+Question: What is the formula of Water? 
+Question: Which is the farthest Planet? 
+Question: Who is the President of Pakistan? 
+Question: Who is the Richest Person in the World? 
+Question: Who landed on Moon first? 
+Question: Where  is Karachi located? 
+Question: What is previous capital of Pakistan? 
+Question: What is the result of 19999 + 001 / 2 ? 
+Question: Which is the richest currency in the World? 
